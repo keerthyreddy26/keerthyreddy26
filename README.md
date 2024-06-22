@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Keerthy</h1>
-- I’m currently working on **MERNSTACK Web Development**
+- I’m currently working on MERNSTACK Web Development
 
 - I have worked on **Python full stack development using django**
 
